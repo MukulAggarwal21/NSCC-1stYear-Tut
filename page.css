@@ -1,0 +1,27 @@
+*{
+  background: rgb(150,53,158);
+   /* background: linear-gradient(90deg, rgba(150,53,158,1) 0%, rgba(40,202,146,1) 24%, rgba(215,24,24,1) 60%, rgba(252,99,32,1) 76%, rgba(252,166,65,1) 100%); */
+}
+
+body{
+  background-color: white;
+}
+
+.div{
+    background-color: aquamarine;
+    border: 5px solid orchid;
+    border-radius: 50px;
+}
+#div2{
+    background-color:black;
+    padding: 10px 50px 30px 50px;
+}
+#div1{
+    margin: 10px 20px 30px 100px;
+}
+span{
+    background-color: cornflowerblue;
+}
+#div2{
+    background-color: aquamarine;
+}
